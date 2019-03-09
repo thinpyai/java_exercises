@@ -5,3 +5,8 @@ As the result, total hit count and line no are shown.
 
 Requirement
 Java 8
+
+Target
+Basic Java logic consideration
+IPO class division
+regular expression
